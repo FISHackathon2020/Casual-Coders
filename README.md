@@ -24,6 +24,4 @@ The recruiter side will allow to reject or accept a applicant and if both sides 
 - [] Set-up system to use flutter in VS code
 - [] Build the back-end system
 
-
-
 ### FIS Thank you for this opportunity!!
