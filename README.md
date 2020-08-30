@@ -21,7 +21,14 @@ The recruiter side will allow to reject or accept a applicant and if both sides 
 
 
 - [x] Create a wireframe using Adobe XD
-- [] Set-up system to use flutter in VS code
-- [] Build the back-end system
+- [x] Set-up system to use flutter in Android Studio
+- [N] Build the back-end system 
 
-### FIS Thank you for this opportunity!!
+```
+This can be improved by adding a login screen, more targeted fields, and many other things to get the system running to help students match to a certain scope that they are interested in.
+
+- We gave our final product as an android app as we were not familiar with many of the tools we were using, but we managed to get a skeleton version of what we wanted. We are pleased with the outcome, but we know there could be more done with this platform. 
+
+```
+
+### FIS, Thank you for this opportunity of showcasing and creating this hackathon!!
